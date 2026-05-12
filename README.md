@@ -1,0 +1,2 @@
+# ros2-isaacsim-lerobot-dataset-collection
+该仓库通过ros2对isaacsim中机器人数据的采集和整合，并且采用lerobot框架对act、smolvla进行微调训练，完成双臂的物体传递任务。
