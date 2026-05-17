@@ -1,0 +1,31 @@
+========== CSV Trajectory Analysis Report ==========
+Duration [s]               : 39.109064
+Estimated input Hz         : 8.054399
+Analysis Hz                : 10.000000
+Global pause ratio         : 0.227041
+---------------------------------------------------
+Mean velocity RMS          : 0.075088
+Mean acceleration RMS      : 0.162359
+Mean jerk RMS              : 1.096802
+Mean jitter RMS            : 0.005357
+Mean high-freq ratio       : 0.000474
+Mean extrema count         : 0.062500
+Mean vel zero crossings    : 10.937500
+===================================================
+
+        left_joint_0 | vel_rms=0.092748, acc_rms=0.151364, jerk_rms=1.074130, jitter_rms=0.004727, hf_ratio=0.000069, extrema=0, vel_zero_cross=8
+        left_joint_1 | vel_rms=0.124036, acc_rms=0.263649, jerk_rms=1.850034, jitter_rms=0.008370, hf_ratio=0.000129, extrema=0, vel_zero_cross=10
+        left_joint_2 | vel_rms=0.104755, acc_rms=0.199952, jerk_rms=1.455660, jitter_rms=0.006143, hf_ratio=0.000073, extrema=0, vel_zero_cross=10
+        left_joint_3 | vel_rms=0.115759, acc_rms=0.466518, jerk_rms=3.113961, jitter_rms=0.015006, hf_ratio=0.004335, extrema=1, vel_zero_cross=12
+        left_joint_4 | vel_rms=0.050878, acc_rms=0.104768, jerk_rms=0.655556, jitter_rms=0.003774, hf_ratio=0.000482, extrema=0, vel_zero_cross=12
+        left_joint_5 | vel_rms=0.017215, acc_rms=0.035984, jerk_rms=0.228208, jitter_rms=0.001269, hf_ratio=0.000292, extrema=0, vel_zero_cross=13
+        left_joint_6 | vel_rms=0.010959, acc_rms=0.032260, jerk_rms=0.195403, jitter_rms=0.001111, hf_ratio=0.000460, extrema=0, vel_zero_cross=13
+        left_joint_7 | vel_rms=0.011079, acc_rms=0.032239, jerk_rms=0.194665, jitter_rms=0.001114, hf_ratio=0.000445, extrema=0, vel_zero_cross=13
+       right_joint_0 | vel_rms=0.122709, acc_rms=0.273549, jerk_rms=1.843317, jitter_rms=0.009128, hf_ratio=0.000092, extrema=0, vel_zero_cross=10
+       right_joint_1 | vel_rms=0.105609, acc_rms=0.184252, jerk_rms=1.241483, jitter_rms=0.006118, hf_ratio=0.000041, extrema=0, vel_zero_cross=9
+       right_joint_2 | vel_rms=0.125221, acc_rms=0.194544, jerk_rms=1.362207, jitter_rms=0.006282, hf_ratio=0.000023, extrema=0, vel_zero_cross=8
+       right_joint_3 | vel_rms=0.087528, acc_rms=0.183840, jerk_rms=1.207873, jitter_rms=0.006371, hf_ratio=0.000111, extrema=0, vel_zero_cross=13
+       right_joint_4 | vel_rms=0.135199, acc_rms=0.257371, jerk_rms=1.764368, jitter_rms=0.008627, hf_ratio=0.000050, extrema=0, vel_zero_cross=6
+       right_joint_5 | vel_rms=0.074826, acc_rms=0.151049, jerk_rms=0.969159, jitter_rms=0.005353, hf_ratio=0.000113, extrema=0, vel_zero_cross=10
+       right_joint_6 | vel_rms=0.011566, acc_rms=0.033397, jerk_rms=0.196994, jitter_rms=0.001170, hf_ratio=0.000432, extrema=0, vel_zero_cross=13
+       right_joint_7 | vel_rms=0.011317, acc_rms=0.033009, jerk_rms=0.195816, jitter_rms=0.001150, hf_ratio=0.000431, extrema=0, vel_zero_cross=15
